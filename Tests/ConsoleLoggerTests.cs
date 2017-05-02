@@ -6,7 +6,7 @@ using HelloWorld.Client.Logging.Console;
 namespace HelloWorld.Tests
 {
     [TestClass]
-    public class UnitTest1
+    public class ConsoleLoggerTests
     {
         [TestMethod]
         public void Can_Log()
